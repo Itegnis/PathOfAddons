@@ -7,7 +7,7 @@ Head over to the [Releases](https://github.com/Itegnis/PathOfAddons/releases) pa
 # Be sure to select exactly PathOfExile.exe on the way to the game
 
 # Light Theme
-![Light Theme Image](https://github.com/Itegnis/PathOfAddons/blob/master/Light.jpg?raw=true)
+![Light Theme Image](https://github.com/Itegnis/PathOfAddons/blob/master/Light.png?raw=true)
 
 # Dark Theme
-![Dark Theme Image](https://github.com/Itegnis/PathOfAddons/blob/master/Dark.jpg?raw=true)
+![Dark Theme Image](https://github.com/Itegnis/PathOfAddons/blob/master/Dark.png?raw=true)
