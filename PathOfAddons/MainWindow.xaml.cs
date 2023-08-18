@@ -56,7 +56,7 @@ namespace PathOfAddons
         private void poePath_Click(object sender, RoutedEventArgs e)
         {
             var poePath = new OpenFileDialog();
-            poePath.Filter = "Client.exe|*.exe";
+            poePath.Filter = "PathOfExile.exe|*.exe";
             poePath.ShowDialog(this);
             pathParent.Text = poePath.FileName;
             Properties.Settings.Default.pathParent = pathParent.Text;
